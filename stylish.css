@@ -1,0 +1,31 @@
+* {background-color: rgb(255, 242, 242);}
+
+h2 {
+    font-family: 'Single Day', cursive;
+    color:rgb(75, 35, 60);
+}
+a {
+    color: rgb(255, 152, 68);
+    text-decoration: none;
+}
+ul {
+    color: rgb(255, 152, 68);
+}
+h1 {
+    text-align:center;
+    color:rgb(75, 35, 60);
+    font-family: 'Single Day';
+}
+p {
+    text-align: center;
+    color:rgb(175, 60, 79)
+}
+#gallery {
+    background-color: white;
+}
+.gal {
+    background-color: white;
+}
+#videos {
+    background-color: white;
+}
